@@ -8,10 +8,12 @@
 
 ---
 ## 🧐 Qu'est-ce qu'un moteur ? (Ma Vision)
-Pour beaucoup, un moteur n'est qu'une pièce mécanique. Pour un ingénieur, c'est le **cœur du système** : l'organe qui transforme l'énergie électrique en mouvement cinétique. 
+Pour beaucoup, un moteur n'est qu'une pièce mécanique. Pour un ingénieur, c'est le **cœur du système** : l'organe qui transforme l'énergie électrique en mouvement cinétique. En effet, un moteur est capable de faire avancer ,tourner des objets à l'infini (ici en l'occurence des roues )  à condition qu'il soit alimenté en courant .
 
-Dans ce projet, je ne me contente pas de faire tourner un moteur ; je lui donne une **intelligence**. C'est le premier pas de ma réflexion vers l'automobile : passer d'une machine passive à un système capable de "comprendre" son environnement pour assurer la sécurité.
+Dans ce projet, je ne me contente pas de faire tourner un moteur ; je lui donne une **intelligence**. Je donne des commandes au moteur via arduino pour le faire tourner ou reculer quand il est necéssaire . 
 
+C'est le premier pas de ma réflexion vers l'automobile : passer d'une machine passive à un système capable de "comprendre" son environnement pour assurer la sécurité.
+Cliquer ici pour voir comment on simule une voiture [![Consulter le Cours](https://img.shields.io/badge/Lire_mon_cours-Théorie_Moteur-red?style=for-the-badge&logo=gitbook)](./docs/moteur_theorie.md)
 ---
 
 

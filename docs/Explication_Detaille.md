@@ -21,7 +21,8 @@ C'est une source d'energie electrique.
 #### Branchement :
 `+` -> circuit 
 
-`-` -> GND 
+`-` -> GND
+
 #### Role : 
 Alimenter tout un circuit.
 

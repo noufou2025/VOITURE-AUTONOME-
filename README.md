@@ -14,7 +14,7 @@ Dans ce projet, je ne me contente pas de faire tourner un moteur ; je lui donne 
 
 C'est le premier pas de ma réflexion vers l'automobile : passer d'une machine passive à un système capable de "comprendre" son environnement pour assurer la sécurité.
 
-Cliquer ici pour voir comment on simule une voiture [![Consulter le Cours](https://img.shields.io/badge/Lire_mon_cours-Théorie_Moteur-red?style=for-the-badge&logo=gitbook)](./docs/Explication_Detaille.md)
+Cliquer ici pour voir comment on simule une voiture [![Consulter le Cours](https://img.shields.io/badge/Lire_mon_cours-Théorie_Moteur-red?style=for-the-badge&logo=gitbook)](./docs/fonctionnement.md)
 
 
 ---

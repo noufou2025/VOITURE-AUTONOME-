@@ -13,7 +13,7 @@ Pour beaucoup, un moteur n'est qu'une pièce mécanique. Pour un ingénieur, c'e
 Dans ce projet, je ne me contente pas de faire tourner un moteur ; je lui donne une **intelligence**. Je donne des commandes au moteur via arduino pour le faire tourner ou reculer quand il est necéssaire . 
 
 C'est le premier pas de ma réflexion vers l'automobile : passer d'une machine passive à un système capable de "comprendre" son environnement pour assurer la sécurité.
-Cliquer ici pour voir comment on simule une voiture [![Consulter le Cours](https://img.shields.io/badge/Lire_mon_cours-Théorie_Moteur-red?style=for-the-badge&logo=gitbook)](./docs/Explication Detaille.md)
+Cliquer ici pour voir comment on simule une voiture [![Consulter le Cours](https://img.shields.io/badge/Lire_mon_cours-Théorie_Moteur-red?style=for-the-badge&logo=gitbook)](./docs/Explication_Detaille.md)
 ---
 
 

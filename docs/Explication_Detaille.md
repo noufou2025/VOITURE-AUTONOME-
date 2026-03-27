@@ -104,10 +104,16 @@ C'est un capteur de distance à ultrasons . Il envoie une onde sonore (ultrason)
 Le HC-SR04 a 4 pins :
 
 VCC → alimentation (5V)
+
 GND → masse
+
 TRIG → envoyer le signal
+
 ECHO → recevoir le signal
-Exemple  = vcc->5V  GND->GND  TRIG->9     ECHO->10
+
+Exemple  =
+
+vcc->5V     GND->GND    TRIG->9      ECHO->10 
 
 #### Role : 
 Mesurer la distance entre lui et un objet Il est bon à savoir que sa distance maximale est de 4m et la minimale  est de 2cm

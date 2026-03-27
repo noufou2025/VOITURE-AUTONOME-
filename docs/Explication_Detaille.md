@@ -37,5 +37,51 @@ Un buzzer est un composant qui fait du son.
 #### Role : 
 Emettre un bip/son/alarme.
 
+### 4- Une LED  
+![Légende de l'image](./images/pile.png)
+
+C'est un composant qui emet de la lumiere quand le courant passe
+#### Branchement :
+anode `+` -> circuit 
+
+ cathode `-` -> GND via un resistance 
+
+#### Role : 
+indique quelque chose visuellement 
+
+
+### 5- Une resistance  
+![Légende de l'image](./images/pile.png)
+
+Limite le passage du courant electrique 
+#### Branchement :
+il se met en serie avec un compaosant dont le courant est trop elevee (une led par exemple )
+
+#### Role : 
+Empeche de griller un composant 
+
+
+### 2- Le L293D 
+![Légende de l'image](./images/pile.png)
+
+Le L293D est un driver moteur contenant 2 ponts en H 
+Un pont en H permet de controler un moteur (soit tourner dans un sens ou dans l autre) 
+Le L293D a deux ponts en H. Il peut donc controler deux moteurs.
+#### Branchement :
+🔹 Alimentation
+Vcc1 (pin 16) → 5V (logique, Arduino)
+Vcc2 (pin 8) → alimentation moteur (ex: 6V, 9V…)
+GND (pins 4,5,12,13) → masse commune
+🔹 Moteur 1
+OUT1 (pin 3) → borne 1 du moteur
+OUT2 (pin 6) → borne 2 du moteur
+🔹 Commande moteur
+IN1 (pin 2) → contrôle sens
+IN2 (pin 7) → contrôle sens
+EN1 (pin 1) → activation (mettre à 1 ou PWM
+
+#### Role : 
+Il permet d'alimenter un moteur d'alimenter un moteur avec plus de puissance que ce que peut fournir un microcontroleur( arduino par exemple)
+
 
 ---

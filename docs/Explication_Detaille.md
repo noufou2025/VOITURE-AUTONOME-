@@ -36,7 +36,7 @@ Un buzzer est un composant qui fait du son.
 Emettre un bip/son/alarme.
 
 ### 4- Une LED  
-<img src="../images/led.png" width="300">
+<img src="../images/LED.jpg" width="300">
 
 C'est un composant qui emet de la lumiere quand le courant passe
 #### Branchement :

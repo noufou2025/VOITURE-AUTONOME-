@@ -2,7 +2,9 @@
 ## LES AUTRES COMPOSANTS 
 
 ### 1- Le moteur 
-![Légende de l'image](./images/moteur.png)
+![Légende de l'image](./images/moteur1.png)
+![Légende de l'image](./images/moteur2.jpg)
+
 
 Un moteur est un dispositif qui transforme une forme d'energie en energie mecanique. 
 #### Branchement : 

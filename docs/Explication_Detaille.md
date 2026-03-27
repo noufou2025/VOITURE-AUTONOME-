@@ -2,8 +2,8 @@
 ## LES AUTRES COMPOSANTS 
 
 ### 1- Le moteur 
-![Légende de l'image](./images/moteur1.png)
-![Légende de l'image](./images/moteur2.jpg)
+<img src="./images/moteur1.png" width="300">
+<img src="./images/moteur2.jpg" width="300">
 
 
 Un moteur est un dispositif qui transforme une forme d'energie en energie mecanique. 

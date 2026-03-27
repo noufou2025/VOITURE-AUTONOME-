@@ -70,18 +70,26 @@ Le L293D a deux ponts en H. Il peut donc controler deux moteurs.
 #### Branchement :
 
 🔹 Alimentation
+
 Vcc1 (pin 16) → 5V (logique, Arduino)
+
 Vcc2 (pin 8) → alimentation moteur (ex: 6V, 9V…)c est à cette broche qu'on augmente la puissance 
+
 GND (pins 4,5,12,13) → masse commune
 
 🔹 Moteur 1
+
 OUT1 (pin 3) → borne 1 du moteur
+
 OUT2 (pin 6) → borne 2 du moteur
 
 🔹 Commande moteur
+
 IN1 (pin 2) → contrôle sens
+
 IN2 (pin 7) → contrôle sens
-EN1 (pin 1) → activation (mettre à 1 ou PWM
+
+EN1 (pin 1) → activation (mettre à 1 ou PWM)
 
 #### Role : 
 Il permet d'alimenter un moteur d'alimenter un moteur avec plus de puissance que ce que peut fournir un microcontroleur( arduino par exemple)

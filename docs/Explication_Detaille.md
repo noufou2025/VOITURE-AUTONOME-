@@ -13,7 +13,7 @@ Faire tourner des roues, ventilateurs, etc.
 
 
 ### 2- Une pile 
-<img src="../images/pile.png" width="300">
+<img src="../images/pile.jpg" width="300">
 
 C'est une source d'energie electrique.
 #### Branchement :
@@ -98,7 +98,7 @@ Arduino envoie des ordres en 0 ou 1 aux entrees et il execute . Pour un moteur o
 ---
 
 ### 7- Un capteur de distance à ultraons (le HC-SR04) 
-<img src="../images/mote.png" width="300">
+<img src="../images/hc-sr04.jfif" width="300">
 
 C'est un capteur de distance à ultrasons . Il envoie une onde sonore (ultrason) dans l'environnement . L'onde touche un objet et revient vers le capteur .Le capteur mesure ainsi le temps aller-retour . La formule utilisee est: $$d = \frac{v \times t}{2}$$
 #### Branchement :

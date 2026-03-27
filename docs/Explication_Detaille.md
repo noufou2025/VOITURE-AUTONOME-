@@ -1,7 +1,4 @@
-## LA CARTE ARDUINO UNO
 
-
----
 ## LES AUTRES COMPOSANTS 
 
 ### 1- Le moteur 
@@ -60,8 +57,8 @@ il se met en serie avec un compaosant dont le courant est trop elevee (une led p
 #### Role : 
 Empeche de griller un composant 
 
-
-### 2- Le L293D 
+---
+### 6- Le L293D 
 ![Légende de l'image](./images/pile.png)
 
 Le L293D est un driver moteur contenant 2 ponts en H 
@@ -94,5 +91,26 @@ EN1 (pin 1) → activation (mettre à 1 ou PWM)
 #### Role : 
 Il permet d'alimenter un moteur d'alimenter un moteur avec plus de puissance que ce que peut fournir un microcontroleur( arduino par exemple)
 
+#### Bilan des entrees : 
+Arduino envoie des ordres en 0 ou 1 aux entrees et il execute . Pour un moteur on a deuc entrees indirect l'un dans chaque direction 
 
 ---
+
+### 7- Un capteur de distance à ultraons (le HC-SR04) 
+![Légende de l'image](./images/pile.png)
+
+C'est un capteur de distance à ultrasons . Il envoie une onde sonore (ultrason) dans l'environnement . L'onde touche un objet et revient vers le capteur .Le capteur mesure ainsi le temps aller-retour . La formule utilisee est: $$d = \frac{v \times t}{2}$$
+#### Branchement :
+Le HC-SR04 a 4 pins :
+
+VCC → alimentation (5V)
+GND → masse
+TRIG → envoyer le signal
+ECHO → recevoir le signal
+Exemple  = vcc->5V  GND->GND  TRIG->9     ECHO->10
+
+#### Role : 
+Mesurer la distance entre lui et un objet Il est bon à savoir que sa distance maximale est de 4m et la minimale  est de 2cm
+
+
+

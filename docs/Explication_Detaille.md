@@ -2,8 +2,7 @@
 ## LES AUTRES COMPOSANTS 
 
 ### 1- Le moteur 
-<img src="./images/moteur1.png" width="300">
-<img src="./images/moteur2.jpg" width="300">
+<img src="../images/moteur1.png" width="300"> <img src="../images/moteur2.jpg" width="500">
 
 
 Un moteur est un dispositif qui transforme une forme d'energie en energie mecanique. 
@@ -14,7 +13,7 @@ Faire tourner des roues, ventilateurs, etc.
 
 
 ### 2- Une pile 
-![Légende de l'image](./images/pile.png)
+<img src="../images/pile.png" width="300">
 
 C'est une source d'energie electrique.
 #### Branchement :
@@ -26,7 +25,7 @@ C'est une source d'energie electrique.
 Alimenter tout un circuit.
 
 ### 3- Buzzer piezoelectrique
-![Légende de l'image](./images/buzzer.png)
+<img src="../images/buzzer.jpg" width="300">
 
 Un buzzer est un composant qui fait du son. 
 #### Branchement :
@@ -37,7 +36,7 @@ Un buzzer est un composant qui fait du son.
 Emettre un bip/son/alarme.
 
 ### 4- Une LED  
-![Légende de l'image](./images/pile.png)
+<img src="../images/led.png" width="300">
 
 C'est un composant qui emet de la lumiere quand le courant passe
 #### Branchement :
@@ -50,7 +49,7 @@ indique quelque chose visuellement
 
 
 ### 5- Une resistance  
-![Légende de l'image](./images/pile.png)
+<img src="../images/resistance.png" width="300">
 
 Limite le passage du courant electrique 
 #### Branchement :
@@ -61,7 +60,7 @@ Empeche de griller un composant
 
 ---
 ### 6- Le L293D 
-![Légende de l'image](./images/pile.png)
+<img src="../images/L293D.jfif" width="300">
 
 Le L293D est un driver moteur contenant 2 ponts en H 
 Un pont en H permet de controler un moteur (soit tourner dans un sens ou dans l autre) 
@@ -99,7 +98,7 @@ Arduino envoie des ordres en 0 ou 1 aux entrees et il execute . Pour un moteur o
 ---
 
 ### 7- Un capteur de distance à ultraons (le HC-SR04) 
-![Légende de l'image](./images/pile.png)
+<img src="../images/mote.png" width="300">
 
 C'est un capteur de distance à ultrasons . Il envoie une onde sonore (ultrason) dans l'environnement . L'onde touche un objet et revient vers le capteur .Le capteur mesure ainsi le temps aller-retour . La formule utilisee est: $$d = \frac{v \times t}{2}$$
 #### Branchement :
